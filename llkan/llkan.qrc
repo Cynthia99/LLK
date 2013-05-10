@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/3DFrames.bmp</file>
+        <file>images/img.bmp</file>
+        <file>images/llk.jpg</file>
+    </qresource>
+</RCC>
